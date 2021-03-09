@@ -35,7 +35,7 @@ Click and generate random score and track the scores generated through table:
 
 ## 👨‍🦱 Test and Results
 
-<img src="/img/score_generator.jpg">
+<img src="https://github.com/tonyweb13/score-generator/blob/master/public/img/score_generator.jpg">
 
 ## 💡 License
 
